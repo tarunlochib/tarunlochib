@@ -1,6 +1,8 @@
 # **About Me**
 ### Hi there 👋, My name is Tarun ✨
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Front-End+web+developer.++++++++++)](https://git.io/typing-svg)
+
 - I am a Software Developer from India 🇮🇳
 - currently I am Studying and Ploishing my skills.
 - Now Studying:
@@ -32,8 +34,11 @@
   
  
  # **Badges**
-![Github stats](https://github-readme-stats.vercel.app/api?username=tarunlochib&theme=highcontrast&show_icons=true&count_private=true)&nbsp;
+![Github stats](https://github-readme-stats.vercel.app/api?username=tarunlochib&theme=radical&show_icons=true&count_private=true)&nbsp;
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunlochib&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarunlochib&theme=neon-palenight&hide_border=true)
 
 
 <!--
