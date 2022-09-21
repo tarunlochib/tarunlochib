@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Front-End+web+developer.++++++++++)](https://git.io/typing-svg)
 
 - I am a Software Developer from India 🇮🇳
-- currently I am Studying and Ploishing my skills.
+- currently I am Studying and Polishing my skills.
 - Now Studying:
   - FrontEnd Development: HTML, CSS, JAVASCRIPT
   - Data Structures and ALgorithms
