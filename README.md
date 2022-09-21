@@ -29,6 +29,11 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <br/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /> 
+  
+ 
+ # **Badges**
+![Github stats](https://github-readme-stats.vercel.app/api?username=tarunlochib&theme=highcontrast&show_icons=true&count_private=true)&nbsp; 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunlochib&layout=compact)
 
 
 <!--
