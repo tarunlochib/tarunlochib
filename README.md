@@ -32,7 +32,7 @@
   
  
  # **Badges**
-![Github stats](https://github-readme-stats.vercel.app/api?username=tarunlochib&theme=highcontrast&show_icons=true&count_private=true)&nbsp; 
+![Github stats](https://github-readme-stats.vercel.app/api?username=tarunlochib&theme=highcontrast&show_icons=true&count_private=true)&nbsp;
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunlochib&layout=compact)
 
 
